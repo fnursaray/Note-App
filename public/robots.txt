@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://note-app-one-sand.vercel.app/sitemap.xml

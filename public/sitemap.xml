@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Ana Sayfa -->
+  <url>
+    <loc>https://note-app-one-sand.vercel.app/</loc>
+    <lastmod>2024-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Yeni Not Oluşturma Sayfası -->
+  <url>
+    <loc>https://note-app-one-sand.vercel.app/new</loc>
+    <lastmod>2024-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Not Detay Sayfası -->
+  <url>
+    <loc>https://note-app-one-sand.vercel.app/note/:id</loc>
+    <lastmod>2024-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Not Düzenleme Sayfası -->
+  <url>
+    <loc>https://note-app-one-sand.vercel.app/note/:id/edit</loc>
+    <lastmod>2024-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Tanımsız Sayfalar -->
+  <url>
+    <loc>https://note-app-one-sand.vercel.app/*</loc>
+    <lastmod>2024-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

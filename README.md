@@ -13,6 +13,8 @@
 
 ## Canlı Demo
 
+https://note-app-one-sand.vercel.app
+
 ## Screen Gif
 
 <img src="screen.gif" />
